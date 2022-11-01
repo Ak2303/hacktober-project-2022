@@ -2,7 +2,7 @@
 #include <string>
 #include <math.h>
 #include <vector>
-
+#include<bits/stdc++.h>
 using namespace std;
 
 //--------------------------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 //******ORDER*******
 // const < log(log n) < log n < n^1/3 < n^1/2 < n < n^2 < n^3 < 2^n < n!
 
-int getSum(int arr[], int n){
+int getsum(int arr[], int n){
 
     int sum = 0;
 
